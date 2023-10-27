@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(212, 168, 175);
+    background-color: #3f668a;
     color: #fefee6;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
@@ -16,14 +16,15 @@ h1 span{
 
 fieldset{
     border-radius: 10px;
-    border: 4px solid #fefee6;
-    background-color: #0A5F77;
+    border: 4px solid #fb8ab9;
+    background-color: #C87195;
 }
 
 legend{
-    background-color: #084353 ;
+    background-color: #7B95B0;
     padding: 3px 6px;
     border-radius: 5px;
+    box-shadow: 4px 4px  #3f668a;
 }
 
 input{
